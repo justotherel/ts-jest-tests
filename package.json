@@ -1,0 +1,20 @@
+{
+  "name": "jest-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/index.ts",
+  "scripts": {
+    "compile": "npx tsc",
+    "test": "jest test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.4",
+    "ts-jest": "^27.0.3",
+    "typecript": "0.0.1-security",
+    "typescript": "^4.3.2"
+  }
+}
