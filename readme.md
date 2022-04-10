@@ -1,3 +1,3 @@
-# Testing tsc code with jest #
+# Testing ts code with jest #
 
-Short try of writing tests for tsc code with jest framework 
+Short try of writing tests for ts code with jest framework 
